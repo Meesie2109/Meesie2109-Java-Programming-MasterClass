@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllFactors/AllFactors.iml" filepath="$PROJECT_DIR$/AllFactors/AllFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiagonalStar/DiagonalStar.iml" filepath="$PROJECT_DIR$/DiagonalStar/DiagonalStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenDigitSum/EvenDigitSum.iml" filepath="$PROJECT_DIR$/EvenDigitSum/EvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" filepath="$PROJECT_DIR$/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlourPackProblem/FlourPackProblem.iml" filepath="$PROJECT_DIR$/FlourPackProblem/FlourPackProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestCommonDivider/GreatestCommonDivider.iml" filepath="$PROJECT_DIR$/GreatestCommonDivider/GreatestCommonDivider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputCalculator/InputCalculator.iml" filepath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestPrime/LargestPrime.iml" filepath="$PROJECT_DIR$/LargestPrime/LargestPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LastDigitChecker/LastDigitChecker.iml" filepath="$PROJECT_DIR$/LastDigitChecker/LastDigitChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberInWord/NumberInWord.iml" filepath="$PROJECT_DIR$/NumberInWord/NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" filepath="$PROJECT_DIR$/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPalindrome/NumberPalindrome.iml" filepath="$PROJECT_DIR$/NumberPalindrome/NumberPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumbersToWords/NumbersToWords.iml" filepath="$PROJECT_DIR$/NumbersToWords/NumbersToWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaintJob/PaintJob.iml" filepath="$PROJECT_DIR$/PaintJob/PaintJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section_05.iml" filepath="$PROJECT_DIR$/.idea/Section_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedDigit/SharedDigit.iml" filepath="$PROJECT_DIR$/SharedDigit/SharedDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOdd/SumOdd.iml" filepath="$PROJECT_DIR$/SumOdd/SumOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheForStatment/TheForStatment.iml" filepath="$PROJECT_DIR$/TheForStatment/TheForStatment.iml" />
+    </modules>
+  </component>
+</project>
