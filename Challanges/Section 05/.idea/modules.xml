@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallange/DayOfTheWeekChallange.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallange/DayOfTheWeekChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitSumChallange/DigitSumChallange.iml" filepath="$PROJECT_DIR$/DigitSumChallange/DigitSumChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumAndMaximum/MinimumAndMaximum.iml" filepath="$PROJECT_DIR$/MinimumAndMaximum/MinimumAndMaximum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section_05.iml" filepath="$PROJECT_DIR$/.idea/Section_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumThreeAndFive/SumThreeAndFive.iml" filepath="$PROJECT_DIR$/SumThreeAndFive/SumThreeAndFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInputChallange/UserInputChallange.iml" filepath="$PROJECT_DIR$/UserInputChallange/UserInputChallange.iml" />
+    </modules>
+  </component>
+</project>
